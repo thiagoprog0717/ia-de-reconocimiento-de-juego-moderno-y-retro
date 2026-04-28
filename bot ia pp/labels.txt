@@ -1,0 +1,2 @@
+0 juego retro
+1 juego nuevo
